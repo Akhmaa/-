@@ -1,0 +1,9 @@
+{
+    "table": "latest",
+    "rates": {
+        "RUB": 62.5,
+        "USD": 1,
+        "EUR": 0.95,
+        "GBP": 0.81
+    }
+}
